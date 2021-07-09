@@ -38,7 +38,7 @@ qiskit.__qiskit_version__
 
 
 # Contributors (in alphabetical order)
-Gines Carrascal, Michele Grossi, Robert Loredo, Voica Radescu
+Chris Burton, Frederik Floether, Michele Grossi, Robert Loredo, Voica Radescu
 
 ## How to contribute
 
